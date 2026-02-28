@@ -186,27 +186,27 @@
     <term name="ordinal"/>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01" gender="masculine">الأول</term>
-    <term name="long-ordinal-02" gender="masculine">الثاني</term>
-    <term name="long-ordinal-03" gender="masculine">الثالث</term>
-    <term name="long-ordinal-04" gender="masculine">الرابع</term>
-    <term name="long-ordinal-05" gender="masculine">الخامس</term>
-    <term name="long-ordinal-06" gender="masculine">السادس</term>
-    <term name="long-ordinal-07" gender="masculine">السابع</term>
-    <term name="long-ordinal-08" gender="masculine">الثامن</term>
-    <term name="long-ordinal-09" gender="masculine">التاسع</term>
-    <term name="long-ordinal-10" gender="masculine">العاشر</term>
+    <term name="long-ordinal-01" gender-form="masculine">الأول</term>
+    <term name="long-ordinal-02" gender-form="masculine">الثاني</term>
+    <term name="long-ordinal-03" gender-form="masculine">الثالث</term>
+    <term name="long-ordinal-04" gender-form="masculine">الرابع</term>
+    <term name="long-ordinal-05" gender-form="masculine">الخامس</term>
+    <term name="long-ordinal-06" gender-form="masculine">السادس</term>
+    <term name="long-ordinal-07" gender-form="masculine">السابع</term>
+    <term name="long-ordinal-08" gender-form="masculine">الثامن</term>
+    <term name="long-ordinal-09" gender-form="masculine">التاسع</term>
+    <term name="long-ordinal-10" gender-form="masculine">العاشر</term>
 
-    <term name="long-ordinal-01" gender="feminine">الأولى</term>
-    <term name="long-ordinal-02" gender="feminine">الثانية</term>
-    <term name="long-ordinal-03" gender="feminine">الثالثة</term>
-    <term name="long-ordinal-04" gender="feminine">الرابعة</term>
-    <term name="long-ordinal-05" gender="feminine">الخامسة</term>
-    <term name="long-ordinal-06" gender="feminine">السادسة</term>
-    <term name="long-ordinal-07" gender="feminine">السابعة</term>
-    <term name="long-ordinal-08" gender="feminine">الثامنة</term>
-    <term name="long-ordinal-09" gender="feminine">التاسعة</term>
-    <term name="long-ordinal-10" gender="feminine">العاشرة</term>
+    <term name="long-ordinal-01" gender-form="feminine">الأولى</term>
+    <term name="long-ordinal-02" gender-form="feminine">الثانية</term>
+    <term name="long-ordinal-03" gender-form="feminine">الثالثة</term>
+    <term name="long-ordinal-04" gender-form="feminine">الرابعة</term>
+    <term name="long-ordinal-05" gender-form="feminine">الخامسة</term>
+    <term name="long-ordinal-06" gender-form="feminine">السادسة</term>
+    <term name="long-ordinal-07" gender-form="feminine">السابعة</term>
+    <term name="long-ordinal-08" gender-form="feminine">الثامنة</term>
+    <term name="long-ordinal-09" gender-form="feminine">التاسعة</term>
+    <term name="long-ordinal-10" gender-form="feminine">العاشرة</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="act">
